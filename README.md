@@ -1,4 +1,4 @@
 # HenryStickmanUnblocked.github.io
 
 
-https://github.io/rocko8/escaping-the-prison/
+https://rocko8.github.io/escaping-the-prison/
